@@ -25,7 +25,7 @@ Before you dive into contributing, please review our [Code of Conduct](CODE_OF_C
 
 ## Getting Started
 
-If you're new to open-source contributions, you might find our ["First-time Contributor Guide"](https://github.com/s41r4j/opcybersec/wiki/First-Time-Contributor-Guide) helpful. It provides tips and guidance for a smooth onboarding experience.
+If you're new to open-source contributions, you might find our ["First-Time Contributor Guide"](https://github.com/s41r4j/opcybersec/wiki/First‐Time‐Contributor‐Guide) helpful. It provides tips and guidance for a smooth onboarding experience.
 
 Thank you for being part of our journey to enhance Cyber Security. Let's collaborate, have fun, and make the internet a safer place!
 
