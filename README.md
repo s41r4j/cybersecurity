@@ -1,8 +1,10 @@
-# Cyber Security: Learn & Contribute
+# Cyber Security
 
 Welcome to the world of Cyber Security! 🌐🔒
 
 This repository is where the excitement begins – it's all about hacking, defending, and learning. Whether you're a seasoned pro or just getting started in the thrilling realm of cybersecurity, you're invited to the coolest club in town! Let's dive in and make the digital realm a safer place, one pull request at a time. 💪
+
+<br>
 
 ## 🍕 Table of Contents
 
@@ -10,14 +12,21 @@ This repository is where the excitement begins – it's all about hacking, defen
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
 - [License](#license)
+- [Stats](#stats)
+
+<br>
 
 ## 🚀 Getting Started
 
 So, you're ready to join the cyber party? Fantastic! Here's the lowdown:
 
+<br>
+
 ### 🤖 What is Cyber Security?
 
 Cyber Security is where the magic happens! It's an open-source project driven by a bunch of cyber geeks who are passionate about making the digital world safer. We're all about hacking, defending, and learning together. Join us in the quest!
+
+<br>
 
 ### 🛡️ How to Use This Repository
 
@@ -26,6 +35,8 @@ Cyber Security is where the magic happens! It's an open-source project driven by
 - **Join the Fun**: If you're all about that open-source spirit, consider contributing. Got a bug to report? A crazy new feature idea? Start by opening an issue. Want to dive in headfirst? Fork the repo and show us your mad skills with pull requests.
 
 - **Level Up**: We've got tons of resources, guides, and examples to help you level up your cyber game. Dive into the docs and learn like there's no tomorrow!
+
+<br>
 
 ## 🎉 Contributing
 
@@ -41,14 +52,25 @@ You've got skills, and we want them! Whether you're a seasoned pro, a passionate
 
 Take a peek at our [Contributing Guidelines](CONTRIBUTING.md) for the inside scoop on how to party with us.
 
+<br>
+
 ## 🎊 Code of Conduct
 
 We're all about having a good time, but let's keep it respectful and inclusive. Check out our [Code of Conduct](CODE_OF_CONDUCT.md) to make sure the party stays friendly and fun.
+
+<br>
 
 ## 📜 License
 
 Cyber Security is all about sharing the love, and it's released under the [MIT License](LICENSE). By partying with us, you agree to follow the rules laid out there. Get more details in the [LICENSE](LICENSE) file.
 
+<br>
+
+## 📟 Stats
+- [![hits](https://hits.sh/github.com/s41r4j/opcybersec.svg)](https://hits.sh/github.com/s41r4j/opcybersec/)
+- 
+
 ---
 
 So, grab your virtual cloak and join the Cyber Security party! Let's hack, defend, and learn our way to a safer digital world. 🎉🔒💃
+
