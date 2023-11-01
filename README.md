@@ -68,7 +68,8 @@ Cyber Security is all about sharing the love, and it's released under the [MIT L
 
 ## 📟 Stats
 - [![hits](https://hits.sh/github.com/s41r4j/opcybersec.svg)](https://hits.sh/github.com/s41r4j/opcybersec/)
-- 
+
+<br>
 
 ---
 
