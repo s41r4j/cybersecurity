@@ -8,9 +8,9 @@ This repository is where the excitement begins – it's all about hacking, defen
 
 ## 🍕 Table of Contents
 
-- [Getting Started](#😄)
-- [Contributing](#✋)
-- [Code of Conduct](#📏)
+- [Getting Started](#-getting-started)
+- [Contributing](#-contributing)
+- [Code of Conduct](#-code-of-conduct)
 - [License](#🚓)
 - [Stats](#💻)
 
