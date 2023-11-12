@@ -9,10 +9,12 @@ This repository is where the excitement begins – it's all about hacking, defen
 ## 🍕 Table of Contents
 
 - [Getting Started](#-getting-started)
+    - [What is Cyber Security?](#-what-is-cyber-security)
+    - [How to Use This Repository!](#-how-to-use-this-repository)
 - [Contributing](#-contributing)
 - [Code of Conduct](#-code-of-conduct)
-- [License](#🚓)
-- [Stats](#💻)
+- [License](#-license)
+- [Stats](#-stats)
 
 <br>
 
@@ -28,7 +30,7 @@ Cyber Security is where the magic happens! It's an open-source project driven by
 
 <br>
 
-### 🛡️ How to Use This Repository
+### 🛡️ How to Use This Repository!
 
 - **Party at the Code Club**: Explore the code, docs, and projects we've got here. Feel free to use or remix them for your own cyber adventures.
 
