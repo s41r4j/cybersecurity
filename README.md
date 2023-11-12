@@ -10,7 +10,7 @@ This repository is where the excitement begins – it's all about hacking, defen
 
 - [Getting Started](#-getting-started)
     - [What is Cyber Security?](#-what-is-cyber-security)
-    - [How to Use This Repository!](#-how-to-use-this-repository)
+    - [How to Use This Repository!](#%EF%B8%8F-how-to-use-this-repository)
 - [Contributing](#-contributing)
 - [Code of Conduct](#-code-of-conduct)
 - [License](#-license)
