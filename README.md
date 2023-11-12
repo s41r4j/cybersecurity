@@ -40,6 +40,10 @@ Cyber Security is where the magic happens! It's an open-source project driven by
 
 <br>
 
+So, grab your virtual cloak and join the Cyber Security party! Let's hack, defend, and learn our way to a safer digital world. 🎉🔒💃
+
+<br>
+
 ## 🎉 Contributing
 
 You've got skills, and we want them! Whether you're a seasoned pro, a passionate enthusiast, or just getting started, there's room for you at the party.
@@ -70,10 +74,3 @@ Cyber Security is all about sharing the love, and it's released under the [MIT L
 
 ## 📟 Stats
 - [![hits](https://hits.sh/github.com/s41r4j/opcybersec.svg)](https://hits.sh/github.com/s41r4j/opcybersec/)
-
-<br>
-
----
-
-So, grab your virtual cloak and join the Cyber Security party! Let's hack, defend, and learn our way to a safer digital world. 🎉🔒💃
-
