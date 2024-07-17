@@ -1,0 +1,56 @@
+Cyber Security: Presentation & Demo
+-----------------------------------
+
+
+"How easy it is to hack someone"
+
+- intro
+	- what, why
+	- need
+	- careers
+
+- brief abt demo - `metasploit/hack`
+
+- demo (live)
+	- pre-setup
+		- make a phishing website (host on attacker linux)
+		- keep the malicious apk updated (avaliable on locally hosted site)
+		- ready w/ metasploit receiver
+		- remember the device needs to be connected to same network
+	- attack
+		- ask someone's mobile (android) device with permission to test the attack (explain little what will happen)
+		- connect the attacker wifi
+		- perform hack
+	- post-hack
+		- explain attack & it's severity
+		- preventive measures
+
+- questions
+- thankyou (if anything)
+
+
+
+-------------------------------
+
+create backup.sh
+	- to install msf
+	- create malicious apk (embeded / non-embeded)
+	- list of all manual cmds
+
+req material (+ for trobleshoot)
+	- metasploit
+	- apache server
+	- working apks (to embed malicious code)
+		- flappy bird
+		- calculator
+
+demo cmds
+	- sysinfo
+	- check_root
+	- dump_calllog
+	- dump_contact
+	- dump_sms
+	- send_sms
+	- app_list
+	- app_run
+
