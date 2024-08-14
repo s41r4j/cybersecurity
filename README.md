@@ -8,7 +8,7 @@
 ## [TALKS](https://s41r4j.github.io/cybersecurity/)
 
 | Code | Topic | Venue | Resources |
-|---|---|---|
+|---|---|---|---|
 | 180724 | Metasploit: how to hack anyone? | PDEACOEM | [PPT, CMDS & DOCS](./talks/msf) |
 
 
